@@ -1,0 +1,16 @@
+F:\DuLieu_LapTrinh\DuAn_LVT\LocalizationProject\MultiLanguage\MultiLanguage.Common\bin\Debug\MultiLanguage.Common.dll
+F:\DuLieu_LapTrinh\DuAn_LVT\LocalizationProject\MultiLanguage\MultiLanguage.Common\bin\Debug\MultiLanguage.Common.pdb
+F:\DuLieu_LapTrinh\DuAn_LVT\LocalizationProject\MultiLanguage\MultiLanguage.Common\bin\Debug\System.Web.Mvc.dll
+F:\DuLieu_LapTrinh\DuAn_LVT\LocalizationProject\MultiLanguage\MultiLanguage.Common\bin\Debug\System.Web.Razor.dll
+F:\DuLieu_LapTrinh\DuAn_LVT\LocalizationProject\MultiLanguage\MultiLanguage.Common\bin\Debug\System.Web.WebPages.Razor.dll
+F:\DuLieu_LapTrinh\DuAn_LVT\LocalizationProject\MultiLanguage\MultiLanguage.Common\bin\Debug\System.Web.WebPages.dll
+F:\DuLieu_LapTrinh\DuAn_LVT\LocalizationProject\MultiLanguage\MultiLanguage.Common\bin\Debug\Microsoft.Web.Infrastructure.dll
+F:\DuLieu_LapTrinh\DuAn_LVT\LocalizationProject\MultiLanguage\MultiLanguage.Common\bin\Debug\System.Web.WebPages.Deployment.dll
+F:\DuLieu_LapTrinh\DuAn_LVT\LocalizationProject\MultiLanguage\MultiLanguage.Common\bin\Debug\System.Web.Mvc.xml
+F:\DuLieu_LapTrinh\DuAn_LVT\LocalizationProject\MultiLanguage\MultiLanguage.Common\bin\Debug\System.Web.Razor.xml
+F:\DuLieu_LapTrinh\DuAn_LVT\LocalizationProject\MultiLanguage\MultiLanguage.Common\bin\Debug\System.Web.WebPages.Razor.xml
+F:\DuLieu_LapTrinh\DuAn_LVT\LocalizationProject\MultiLanguage\MultiLanguage.Common\bin\Debug\System.Web.WebPages.xml
+F:\DuLieu_LapTrinh\DuAn_LVT\LocalizationProject\MultiLanguage\MultiLanguage.Common\bin\Debug\System.Web.WebPages.Deployment.xml
+F:\DuLieu_LapTrinh\DuAn_LVT\LocalizationProject\MultiLanguage\MultiLanguage.Common\obj\Debug\MultiLanguage.Common.csprojResolveAssemblyReference.cache
+F:\DuLieu_LapTrinh\DuAn_LVT\LocalizationProject\MultiLanguage\MultiLanguage.Common\obj\Debug\MultiLanguage.Common.dll
+F:\DuLieu_LapTrinh\DuAn_LVT\LocalizationProject\MultiLanguage\MultiLanguage.Common\obj\Debug\MultiLanguage.Common.pdb
